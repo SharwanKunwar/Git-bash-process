@@ -2,7 +2,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #f0f2f5;
+    background-color: #a5a5a57c;
 }
 
 .box {
@@ -18,8 +18,8 @@ body {
 
 .title-box {
     text-align: center;
-    background-color: #0078d7;
-    color: #fff;
+    background-color: #000000;
+    color: #ffffff;
     font-style: italic;
 }
 
